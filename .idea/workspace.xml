@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff419ff8-36da-440b-b25f-2492ca4ec3ec" name="변경" comment="first commit">
+    <list default="true" id="ff419ff8-36da-440b-b25f-2492ca4ec3ec" name="변경" comment="@Service 애너테이션 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +81,7 @@
       <workItem from="1712211945526" duration="656000" />
       <workItem from="1712236566283" duration="1170000" />
       <workItem from="1712321684153" duration="1813000" />
+      <workItem from="1712495294174" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="springboot 의존성 추가">
       <option name="closed" value="true" />
@@ -154,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712325380559</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="@Service 애너테이션 추가">
+      <option name="closed" value="true" />
+      <created>1712496246791</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712496246791</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +174,7 @@
     <MESSAGE value="RestController 어노테이션 추가" />
     <MESSAGE value="의존성 추가&#10;- 스프링 데이터 JPA&#10;- 인메모리 데이터베이스&#10;- 롬복" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="@Service 애너테이션 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Service 애너테이션 추가" />
   </component>
 </project>
